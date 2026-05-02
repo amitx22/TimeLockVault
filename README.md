@@ -1,8 +1,4 @@
- README.md — TimeLockVault
-markdown
-Copy
-Edit
-# ⏳ TimeLockVault
+ # ⏳ TimeLockVault
 
 A simple Ethereum smart contract that allows users to **deposit ETH with a time lock**, making it withdrawable only after a specified period. Ideal for creating trustless time-based savings or delayed payment systems.
 
